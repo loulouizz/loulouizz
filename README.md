@@ -4,9 +4,9 @@
 
 ![Loulouizz's GitHub stats](https://github-readme-stats.vercel.app/api?username=loulouizz&show_icons=true&theme=radical)
 
-### Projects under development: 
-[TaskApp - Flutter](https://github.com/loulouizz/taskapp)<br/>
-- A simple task list app
+### Projects under development: <br/>
+[TaskApp - Flutter](https://github.com/loulouizz/taskapp)
+- A simple task list app <br/>
 
-[Alimentracker - Flutter](https://github.com/loulouizz/Alimentracker)<br/>
-- An app to register your daily meals to help you to follow your diet
+[Alimentracker - Flutter](https://github.com/loulouizz/Alimentracker)
+- An app to register your daily meals to help you to follow your diet <br/>
