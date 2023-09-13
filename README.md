@@ -13,7 +13,7 @@
   <img align="center" alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 
 ### Technologies I'm studying right now:
-<div style = "display: inline_block"><br/>
+<div style = "display: inline_block">
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
 ### Projects under development: <br/>
