@@ -28,4 +28,8 @@
 [Alimentracker - Flutter](https://github.com/loulouizz/Alimentracker)
 - An app to register your daily meals to help you to follow your diet <br/>
 
+### Future projects: <br/>
+- Podomoro 🍇
+- League Stats
+
 
