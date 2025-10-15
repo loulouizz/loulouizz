@@ -17,19 +17,3 @@
   <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img align="center" alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 
-### Technologies I'm studying right now:
-<div style = "display: inline_block">
-  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-
-### Projects under development: <br/>
-[TaskApp - Flutter](https://github.com/loulouizz/taskapp)
-- A simple task list app <br/>
-
-[Alimentracker - Flutter](https://github.com/loulouizz/Alimentracker)
-- An app to register your daily meals to help you to follow your diet <br/>
-
-### Future projects: <br/>
-- Podomoro 🍇
-- League Stats
-
-
